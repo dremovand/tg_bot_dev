@@ -4,7 +4,7 @@ How to test:
 
 First way:
 1. Clone this repository.
-2. Add an .env file with telegram token
+2. Create a .env file with telegram token
 ```TOKEN = XXXXXXXXX:ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ```
 3. Use ```node index.js```
 
