@@ -9,4 +9,4 @@ First way:
 3. Use ```node index.js```
 
 Second way:  
-Add an [@DremoAVNDbot](https://t.me/DremoAVNDbot "@DremoAVNDbot")
+Add a [@DremoAVNDbot](https://t.me/DremoAVNDbot "@DremoAVNDbot")
