@@ -1,12 +1,12 @@
 # Simple command generator
 
-How to test:  
+How to test:
 
 First way:
-*Clone this repository.  
-*Add an .env file with telegram token  
+1. Clone this repository.
+2. Add an .env file with telegram token
 ```TOKEN = XXXXXXXXX:ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ```
-*Use ```node index.js```
+3. Use ```node index.js```
 
 Second way:  
-*Add an @DremoAVNDbot[https://t.me/DremoAVNDbot]
+Add an [@DremoAVNDbot](https://t.me/DremoAVNDbot "@DremoAVNDbot")
