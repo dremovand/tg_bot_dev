@@ -5,7 +5,7 @@ How to test:
 First way:
 *Clone this repository.  
 *Add an .env file with telegram token  
-```TOKEN = XXXXXXXXX:ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+```TOKEN = XXXXXXXXX:ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ```
 *Use ```node index.js```
 
 Second way:  
