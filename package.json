@@ -1,0 +1,17 @@
+{
+  "name": "tg_bot_dev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Dremov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^4.0.0",
+    "mongoose": "^5.0.0-rc2",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
